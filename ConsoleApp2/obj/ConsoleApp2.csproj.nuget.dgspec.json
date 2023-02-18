@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projects\\VisualStudioSource\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj": {}
+    "F:\\Projects\\VisualStudioSource\\AIS\\AES\\ConsoleApp2\\ConsoleApp2.csproj": {}
   },
   "projects": {
-    "F:\\Projects\\VisualStudioSource\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj": {
+    "F:\\Projects\\VisualStudioSource\\AIS\\AES\\ConsoleApp2\\ConsoleApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projects\\VisualStudioSource\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectUniqueName": "F:\\Projects\\VisualStudioSource\\AIS\\AES\\ConsoleApp2\\ConsoleApp2.csproj",
         "projectName": "ConsoleApp2",
-        "projectPath": "F:\\Projects\\VisualStudioSource\\ConsoleApp2\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectPath": "F:\\Projects\\VisualStudioSource\\AIS\\AES\\ConsoleApp2\\ConsoleApp2.csproj",
         "packagesPath": "C:\\Users\\ByLka\\.nuget\\packages\\",
-        "outputPath": "F:\\Projects\\VisualStudioSource\\ConsoleApp2\\ConsoleApp2\\obj\\",
+        "outputPath": "F:\\Projects\\VisualStudioSource\\AIS\\AES\\ConsoleApp2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ByLka\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp2
 {
-    internal class CryptographyTools
+    public class CryptographyTools
     {
 
         public static byte[] EncryptStringToBytes_Aes(string text, byte[] Key, byte[] IV)
